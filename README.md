@@ -1,2 +1,2 @@
 # calculator
-A calculator app is a digital tool that performs basic math 
+A calculator app is a digital tool that performs basic maths.
